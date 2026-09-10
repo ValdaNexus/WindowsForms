@@ -1,5 +1,5 @@
 Windows Forms je událostně řízený program. Formuláře a ovládací prvky vyvolávají **události**,
-na které uživatel reaguje obsloužením dané události.  
+na které kód reaguje obsloužením dané události.  
 Událostí může být pohyb myší, kliknutí, stisknutí tlačítka aj.  
 
 Jedna z často používaných událostí je událost **_MouseClick_** (reaguje pouze na myš).  
